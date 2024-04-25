@@ -3,7 +3,7 @@
 	url = git@github.com:dlr-ts/adore_if_carla
 [submodule "adore_if_ros_msg"]
 	path = adore_if_ros_msg
-	url = git@github.com:dlr-ts/adore_if_ros_msg
+	url = git@github.com:MalteHauff/adore_if_ros_msg
 [submodule "adore_if_v2x"]
 	path = adore_if_v2x
 	url = git@github.com:dlr-ts/adore_if_v2x
@@ -17,7 +17,7 @@
 	shallow = true
 [submodule "plotlabserver"]
 	path = plotlabserver
-	url = git@github.com:dlr-ts/plotlabserver
+	url = git@github.com:MalteHauff/plotlabserver
 [submodule "sumo_if_ros"]
 	path = sumo_if_ros
 	url = git@github.com:dlr-ts/sumo_if_ros
@@ -47,16 +47,16 @@
 	url = git@github.com:DLR-TS/adore_cli.git
 [submodule "adore_if_ros"]
 	path = adore_if_ros
-	url = git@github.com:DLR-TS/adore_if_ros.git
+	url = git@github.com:MalteHauff/adore_if_ros.git
 [submodule "libadore"]
 	path = libadore
-	url = git@github.com:DLR-TS/libadore.git
+	url = git@github.com:MalteHauff/libadore.git
 [submodule "adore_scheduling"]
 	path = adore_scheduling
-	url = git@github.com:DLR-TS/adore_scheduling.git
+	url = git@github.com:MalteHauff/adore_scheduling.git
 [submodule "plotlablib"]
 	path = plotlablib
-	url = git@github.com:DLR-TS/plotlablib.git
+	url = git@github.com:MalteHauff/plotlablib.git
 [submodule "adore_if_ros_scheduling"]
 	path = adore_if_ros_scheduling
 	url = git@github.com:DLR-TS/adore_if_ros_scheduling.git
@@ -68,4 +68,4 @@
 	url = git@github.com:DLR-TS/ci_teststand.git
 [submodule "adore_scenarios"]
 	path = adore_scenarios
-	url = git@github.com:DLR-TS/adore_scenarios.git
+	url = git@github.com:MalteHauff/adore_scenarios.git
