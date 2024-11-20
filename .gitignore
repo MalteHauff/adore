@@ -13,3 +13,4 @@ catkin_workspace/
 **.catkin
 **.docker_image_cache**
 adore/
+.vscode
